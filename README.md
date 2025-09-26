@@ -10,9 +10,9 @@ And that is one of the few things you need to know  me a little bit .
             
  
 
-- 🌱 I’m currently learning mobile development
+- 🌱 I’m currently learning python.
 - 📫 How to reach me: kimtifah2@gmail.com
-- Fun fact: I am more of a night person . When it hits 10pm that's when my coding  passion and energy get to work 😄.
+- Fun fact: I am more of a night person . When it hits 10pm that's when my brain get to work 😄.
   
 ## 💻 Tech Stacks:
   
